@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cnc.taperpro",
+      "sha256_cert_fingerprints": [
+        "78:64:D8:7C:D2:15:84:05:8B:4E:DF:C1:B4:B7:EF:5D:F7:EC:E3:31:97:0C:AE:71:F7:FF:C5:A2:16:5F:47:FF"
+      ]
+    }
+  }
+]
